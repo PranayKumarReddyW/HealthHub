@@ -83,10 +83,6 @@ We welcome contributions from the community! If you'd like to contribute to Heal
    ```
 5. **Create a Pull Request** on the original repository.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For more information or any queries, please reach out to us:
